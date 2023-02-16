@@ -1,0 +1,8 @@
+coca;7;10;999999951;coca.png
+MonsterPunch;15;18;0;boisson-canette-monster-punch.jpeg
+iceTea;7;10;44;iceTea.jpeg
+MonsterUltraWhite;15;18;11;monster-ultra-white-zero-sugar.png
+oasis;7;10;61;oasis.jpeg
+redBull;7;10;18;redBull.jpeg
+Sprite;7;10;0;sprite.png
+MonsterPD;15;18;7;monsterPD.png
